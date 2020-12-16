@@ -1,8 +1,0 @@
-.gitignore
-node_modules
-design
-dist
-debug.log
-README.md
-style-guide.md
-webpack.config.js
